@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Esta es la historia de Fernando
 Fernando nació en colombia y tiene 30 años
 fecha de nacimiento: Octubre 12 1992
 
 Mide 1.70 cm
+=======
+Esta es la historia de Fernando
+Fernando nació en colombia y tiene 30 años
+fecha de nacimiento: Octubre 12 1992
+
+Mide 1.70 cm
+>>>>>>> 1f60833823463cc744b88677a263ef3eae987d7b
 Mañana nos enfocaremos en su vida laboral
